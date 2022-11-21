@@ -1,2 +1,2 @@
-# aliraza-anularcurd
+# aliraza-angularcurd
 Angular curd system
